@@ -13,4 +13,4 @@ make
 
 # Demo
 
-![](./demo.mp4)
+https://github.com/snowball-lv/delaunay/assets/24735305/99b1f061-5c2a-404f-89ad-37e01c89aada
